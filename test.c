@@ -11,3 +11,8 @@ int main(int argc, char const *argv[])
 	
 	return 1;
 }
+
+void func(void)
+{
+	#some cool func
+}
