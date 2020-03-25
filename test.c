@@ -6,6 +6,12 @@ int main(int argc, char const *argv[])
 	x = 100;
 	
 	x ++;
+<<<<<<< HEAD
+=======
+
+	#this is new branch
+	#this is new branch too
+>>>>>>> new_feature
 	
 	return 1;
 }
