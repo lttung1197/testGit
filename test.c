@@ -4,7 +4,6 @@ int main(int argc, char const *argv[])
 	x = 2;
 	x = 3; #hihihi
 	x = 100;
-	x = 10;
 	
 	x ++;
 	
