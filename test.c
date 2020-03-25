@@ -8,6 +8,8 @@ int main(int argc, char const *argv[])
 	x ++;
 
 	x--;
+
+	x++;
 	
 	return 1;
 }
