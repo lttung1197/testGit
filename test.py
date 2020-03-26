@@ -14,3 +14,5 @@ if __name__ == '__main__':
 	test2()
 	test2()
 	test1()
+
+	update()
