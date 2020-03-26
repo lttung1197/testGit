@@ -4,3 +4,9 @@ z = 3
 
 a = 1
 b = 3
+
+def test1():
+	x = 2
+	return x + 1
+
+
