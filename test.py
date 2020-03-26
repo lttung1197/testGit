@@ -13,5 +13,8 @@ def test2():
 	return 123
 
 if __name__ == '__main__':
-	x = 1
-	pass
+	print(test1())
+	test2()
+	test2()
+	test1()
+	test2()
