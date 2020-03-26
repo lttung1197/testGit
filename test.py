@@ -9,4 +9,9 @@ def test1():
 	x = 2
 	return x + 1
 
+def test2():
+	return 123
 
+if __name__ == '__main__':
+	print(test1())
+	test2()
