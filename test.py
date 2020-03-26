@@ -13,4 +13,5 @@ def test2():
 	return 123
 
 if __name__ == '__main__':
+	x = 1
 	pass
